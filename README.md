@@ -31,4 +31,4 @@ For the code to work, some dependencies are necessary. To install them, run  `pi
 
 A plot created at the end of the simulation with constants seen in the program on github:
 
-<img width="956" height="982" alt="GW_collapse" src="https://github.com/user-attachments/assets/cff475d8-00b3-41d4-a4c8-2fe124cdb880" />
+<img width="849" height="1342" alt="GW_collapsing" src="https://github.com/user-attachments/assets/afecc969-b5fc-43a1-8605-78afeed56fa5" />
