@@ -129,7 +129,7 @@ while running:
     pygame.display.update() 
     clock.tick(120)
 
-time = np.linspace(0, t/2, len(data1))
+time = np.linspace(0, t, len(data1))
 
 ax.plot(time, data3, data1, label='h_plus_combined')
 ax.plot(time, data4, data2, label='h_x_combined')
