@@ -138,7 +138,7 @@ while running:
         p.display()
 
     pygame.display.update() 
-    clock.tick(1000)
+    clock.tick(120)
 
 time = np.linspace(0, t, len(data1))
 
